@@ -1,1 +1,1 @@
-# CtFNepal24.io
+# CtFNepal24
